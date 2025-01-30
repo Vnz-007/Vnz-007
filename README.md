@@ -8,10 +8,10 @@
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-007&layout=compact&langs_count=6&theme=tokyonight"/>
 <div>
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="150" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="150" alt="CSS3">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="150" alt="JavaScript">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="150" alt="React Native">
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="130" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="130" alt="CSS3">
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="130" alt="JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="130" alt="React Native">
 </div>
 
 <div> 
