@@ -1,8 +1,7 @@
-## Vinícius Loiola de J. G.
+## - 💻 Desenvolvedor Full-Stack 💻
+## - ✨ Estudante/Trainee ✨
+## - HTML5 | CSS | JavaScript
 
-- 💻 Desenvolvedor Full-Stack 💻
-- ✨ Estudante/Trainee ✨
-- HTML5 | CSS | JavaScript
 <table>
   <a href="https://github.com/Vnz-007">
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
