@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=577AE4&size=40&center=true&vCenter=true&width=1000&lines=HI✌🏻🚀,I'm+Vinícius+Loiola;Dev+Full-Stack;+I+have+18+years+old;I+am+from+Recife,+PE;Be+Welcome+to+MyProfile!🚀)](https://github.com/Vnz-007)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=577AE4&size=40&center=true&vCenter=true&width=1000&lines=HI✌🏻🚀,I'm+Vinícius+Loiola;Dev+Full-Stack;+I+have+18+years+old;I+am+from+Recife,+PE;Be+Welcome+to+MyProfile!🚀)](https://github.com/Vnz-007)
 
 </div
   
@@ -12,10 +12,9 @@
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-007&layout=compact&langs_count=6&theme=tokyonight"/>
 
 <div align="center">
-  
- ## 💻 Desenvolvedor Full-Stack 💻
- ## HTML5 | CSS3 | JavaScript | React
- 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=577AE4&size=40&center=true&vCenter=true&width=1000&lines=💻+Dev+Full-Stack+💻;Languages;HTML5+CSS3+JavaScript+React)](https://github.com/Vnz-007)
+
 </div>
 
 <div align="center">
