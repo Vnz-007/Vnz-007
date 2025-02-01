@@ -7,10 +7,11 @@
 </div
   
 <table>
-  <a href="https://github.com/Vnz-007">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-007&width=1&layout=compact&langs_count=6&theme=tokyonight"/>
-
+  <div align="center">
+    <a href="https://github.com/Vnz-007">
+    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-007&width=1&layout=compact&langs_count=6&theme=tokyonight"/>
+  </div>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=577AE4&size=40&center=true&vCenter=true&width=1000&lines=💻+Dev+Full-Stack+💻;Languages;HTML5+CSS3+JavaScript+React)](https://github.com/Vnz-007)
@@ -29,5 +30,6 @@
   <a href="https://www.linkedin.com/in/vinícius-loiola-bb8688341" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto: viniciusloiolaJG@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=130&section=footer&text=Programando&fontSize=20&fontColor=577AE4&animation=twinkling&fontAlignY=65"/>
+<div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=130&section=footer&text=Programando&fontSize=20&fontColor=577AE4&animation=twinkling&fontAlignY=65"/>
+</div>
