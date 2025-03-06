@@ -9,7 +9,7 @@
 
 <div align="center">
 	<picture>
-  		<source
+  		<source width=100%
 		    srcset="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true&theme=dark&icon_color=F2C53D&ring_color=F2C53D&rank_icon=github"
 		    media="(prefers-color-scheme: dark)"
 		/>
@@ -21,7 +21,7 @@
 	</picture>
   <br>
 	<picture>
-  		<source
+  		<source width=100%
 		    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-007&show_icons=true&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&exclude_repo=The-Creed-Of-Gods-Game"
 		    media="(prefers-color-scheme: dark)"
 		/>
