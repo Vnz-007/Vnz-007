@@ -6,15 +6,36 @@
 
 </div
   
-<table>
-  <div align="center">
-    <a href="https://github.com/Vnz-007">
-    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-007&width=15&layout=compact&langs_count=6&theme=tokyonight"/>
-  </div>
+
+<div align="center">
+	<picture>
+  		<source
+		    srcset="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true&theme=dark&icon_color=F2C53D&ring_color=F2C53D&rank_icon=github"
+		    media="(prefers-color-scheme: dark)"
+		/>
+		<source
+		    srcset="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true&title_color=000000&icon_color=3E7BAC&ring_color=3E7BAC&rank_icon=github"
+		    media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
+		/>
+		  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true" />
+	</picture>
+  <br>
+	<picture>
+  		<source
+		    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-007&show_icons=true&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&exclude_repo=The-Creed-Of-Gods-Game"
+		    media="(prefers-color-scheme: dark)"
+		/>
+		<source
+		    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-00&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&title_color=000000&exclude_repo=The-Creed-Of-Gods-Game"
+		    media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
+		/>
+		  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-007&size_weight=0&count_weight=1&langs_count=5&layout=donut&exclude_repo=The-Creed-Of-Gods-Game"/>
+	</picture>
+</div>
+ 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=577AE4&size=40&center=true&vCenter=true&width=1000&lines=💻+Dev+Full-Stack+💻;Languages;HTML5+CSS3+JavaScript+React)](https://github.com/Vnz-007)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=577AE4&size=40&center=true&vCenter=true&width=1000&lines=💻+Dev+Full-Stack+💻;Technologies;HTML5+CSS3+JavaScript+React)](https://github.com/Vnz-007)
 
 </div>
 
