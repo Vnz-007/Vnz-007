@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=577AE4&size=40&center=true&vCenter=true&width=1000&lines=HI✌🏻🚀,I'm+Vinícius+Loiola;Dev+Full-Stack;+I+have+18+years+old;I+am+from+Recife,+PE;Be+Welcome+to+MyProfile!🚀)](https://github.com/Vnz-007)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=214CCE&size=40&center=true&vCenter=true&width=1000&lines=HI✌🏻🚀,I'm+Vinícius+Loiola;Dev+Full-Stack;+I+have+18+years+old;I+am+from+Recife,+PE;Be+Welcome+to+MyProfile!🚀)](https://github.com/Vnz-007)
 
 <br>
 
@@ -39,7 +39,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=577AE4&size=40&center=true&vCenter=true&width=1000&lines=💻+Dev+Full-Stack+💻;Technologies;HTML5+CSS3+JavaScript+React)](https://github.com/Vnz-007)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=214CCE&size=40&center=true&vCenter=true&width=1000&lines=💻+Dev+Full-Stack+💻;Technologies;HTML5+CSS3+JavaScript+React)](https://github.com/Vnz-007)
 
 </div>
 
