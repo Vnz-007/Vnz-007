@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=214CCE&height=130&section=header&fontSize=30&fontColor=214CCE&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=130&section=header&text=Progrmando...&fontSize=20&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=214CCE&size=40&center=true&vCenter=true&width=1000&lines=HI✌🏻🚀,I'm+Vinícius+Loiola;Dev+Full-Stack;+I+have+18+years+old;I+am+from+Recife,+PE;Be+Welcome+to+MyProfile!🚀)](https://github.com/Vnz-007)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=40&center=true&vCenter=true&width=1000&lines=HI✌🏻🚀,I'm+Vinícius+Loiola;Dev+Full-Stack;+I+have+18+years+old;I+am+from+Recife,+PE;Be+Welcome+to+MyProfile!🚀)](https://github.com/Vnz-007)
 
 <br>
 
@@ -39,7 +39,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=214CCE&size=40&center=true&vCenter=true&width=1000&lines=💻+Dev+Full-Stack+💻;Technologies;HTML5+CSS3+JavaScript+React)](https://github.com/Vnz-007)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=40&center=true&vCenter=true&width=1000&lines=💻+Dev+Full-Stack+💻;Technologies;HTML5+CSS3+JavaScript+React)](https://github.com/Vnz-007)
 
 </div>
 
@@ -65,5 +65,5 @@
 <br>
 
 <div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=214CCE&height=130&section=footer&text=Programando&fontSize=20&fontColor=FFFFFF&animation=twinkling&fontAlignY=65"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=130&section=footer&text=Programando...&fontSize=20&fontColor=FFFFFF&animation=twinkling&fontAlignY=65"/>
 </div>
