@@ -19,7 +19,7 @@
 		    srcset="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true&title_color=000000&icon_color=3E7BAC&ring_color=3E7BAC&rank_icon=github"
 		    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 		/>
-		  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true" />
+		  <img height="191px" src="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true" />
   		<source
 		    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-007&show_icons=true&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&exclude_repo=The-Creed-Of-Gods-Game"
 		    media="(prefers-color-scheme: dark)"
