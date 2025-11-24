@@ -1,69 +1,45 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=130&section=header&text=Progrmando...&fontSize=20&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
+<h1 align="center">🚀💻Vinícius Loiola💻🚀</h1>
+
+###
 
 <div align="center">
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=40&center=true&vCenter=true&width=1000&lines=HI✌🏻🚀,I'm+Vinícius+Loiola;Dev+Full-Stack;+I+have+18+years+old;I+am+from+Recife,+PE;Be+Welcome+to+MyProfile!🚀)](https://github.com/Vnz-007)
-
-<br>
-
-</div>
-  <br>
-<div align="center">
-  		<source
-		    srcset="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true&theme=dark&icon_color=F2C53D&ring_color=F2C53D&rank_icon=github"
-		    media="(prefers-color-scheme: dark)"
-		/>
-		<source
-		    srcset="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true&title_color=000000&icon_color=3E7BAC&ring_color=3E7BAC&rank_icon=github"
-		    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-		/>
-		  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Vnz-007&show_icons=true" />
-  		<source
-		    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-007&show_icons=true&theme=dark&size_weight=1&count_weight=0.7&langs_count=20&layout=donut&exclude_repo=The-Creed-Of-Gods-Game"
-		    media="(prefers-color-scheme: dark)"
-		/>
-		<source
-		    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-007&show_icons=true&size_weight=1&count_weight=1&langs_count=20&layout=donut&title_color=000000&exclude_repo=The-Creed-Of-Gods-Game"
-		    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-		/>
-		  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnz-007&size_weight=1&count_weight=1&langs_count=15&layout=donut&exclude_repo=The-Creed-Of-Gods-Game"/>
+  <a href="https://www.instagram.com/_vnz.007_?igsh=ZmVybWNrN2R1eXI1" target="_blank" rel="noopener"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/vinícius-loiola-bb8688341" target="_blank" rel="noopener"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+  <a href = "mailto: viniciusloiolaJG@gmail.com.br"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
 </div>
 
- <br>
+###
 
 <div align="center">
-
-<br>
-<br>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=40&center=true&vCenter=true&width=1000&lines=💻+Dev+Full-Stack+💻;Technologies;HTML5+CSS3+JavaScript+React)](https://github.com/Vnz-007)
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="60" alt="nuxtjs logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
 </div>
 
-<br>
+###
 
 <div align="center">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="130" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="130" alt="CSS3">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="140" alt="JavaScript">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" src="https://reactnative.dev/" width="130" heigth="50" alt="React Native">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vnz-007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2&custom_title=My%20Arsenal" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Vnz-007&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Vnz-007&theme=monokai&column=-1&row=1&margin-w=15&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<br>
-<br>
-<br>
+###
 
-<div align="center"> 
-  <a href="https://www.instagram.com/_vnz.007_?igsh=ZmVybWNrN2R1eXI1" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener"></a>
-  <a href="https://www.linkedin.com/in/vinícius-loiola-bb8688341" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"></a>
-  <a href = "mailto: viniciusloiolaJG@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener"></a>
-</div>
-
-<br>
-
-<div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=130&section=footer&text=Programando...&fontSize=20&fontColor=FFFFFF&animation=twinkling&fontAlignY=65"/>
-</div>
